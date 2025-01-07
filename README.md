@@ -24,19 +24,19 @@ GIT clone https://github.com/yLeonardo99/agencia-virtual.git
 
 ## 📸 Imagens do Projeto  
 
-![Página Inicial](./assets/images/Capa_Inicio.jpg)  
+![Página Inicial](Agencia-Villa/assets/images/Capa_Inicio.jpg)  
 
-![Página Imovéis](./assets/images/Capa_imoveis.jpg)  
+![Página Imovéis](Agencia-Villa/assets/images/Capa_imoveis.jpg)  
 
-![Página Detalhes](./assets/images/Capa_detalhes.jpg)  
+![Página Detalhes](Agencia-Villa/assets/images/Capa_detalhes.jpg)  
 
-![Página Contato](./assets/images/Capa_contato.jpg)  
+![Página Contato](Agencia-Villa/assets/images/Capa_contato.jpg)  
 
 ## 🎥 Demonstração do Projeto  
 
 Confira o vídeo abaixo para ver o site em funcionamento:  
 
-[![Demonstração do Projeto] 
+[![Demonstração do Projeto];
 
 https://github.com/user-attachments/assets/b0b3c687-daf2-4b0f-b04b-198deb41ed41
 
