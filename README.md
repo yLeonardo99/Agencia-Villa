@@ -9,27 +9,6 @@ Este repositório contém o código-fonte de um site desenvolvido para a **Agên
 🔍 Página detalhada para cada propriedade.
 ✉️ Formulário de contato para visitantes.
 
-
-##📂 Estrutura do Projeto
-
-PROJETO/
-│
-├── assets/
-│   ├── css/
-│   ├── images/
-│   ├── js/
-│   └── webfonts/
-│
-├── vendor/
-│   ├── bootstrap/
-│   └── jquery/
-│
-├── contact.html
-├── index.html
-├── properties.html
-└── property-details.html
-
-
 ##🚀 Como Executar o Projeto
 
 GIT clone https://github.com/yLeonardo99/agencia-virtual.git
@@ -42,7 +21,6 @@ GIT clone https://github.com/yLeonardo99/agencia-virtual.git
 - **JavaScript**
 - **Bootstrap**  
 - **jQuery**
-
 
 ## 📸 Imagens do Projeto  
 
